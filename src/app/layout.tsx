@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 // Altere apenas esta parte:
 export const metadata: Metadata = {
-  title: "saepuin - Gestão de Estoque",
-  description: "Sistema de Gestão de Estoque criado para o saepuin",
+  title: "saep - Gestão de Estoque",
+  description: "Sistema de Gestão de Estoque criado para o saep",
 };
 
 export default function RootLayout({
